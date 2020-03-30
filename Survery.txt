@@ -1,0 +1,34 @@
+Survery Program:
+
+Name;
+Favorite Movie
+Favorit TV show
+Favorite Food;
+
+
+
+Libraries:
+            stdio.h
+Functions:
+
+    char Input(char name)
+        1.) print questions
+        2.) user input/answers
+        3.) return
+
+
+
+Main:
+
+    Input:
+        Var:
+           char name, favMovie, favShow, favFood;
+
+    Problems:
+        All vars go to Input Function;
+        name = Name( name )    
+        favMovie = favMovie( favMovie)
+        favShow = favShow ( favShow )
+        favFood = favShow (favFood)
+    Output:
+        Printf()
