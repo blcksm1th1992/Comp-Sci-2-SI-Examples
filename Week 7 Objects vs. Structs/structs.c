@@ -8,8 +8,8 @@
     2.) Int Functions  DONE
     3.) Switch Cases   DONE
     4.) Loops
-        a.) For 
-        b.) While (Will only run with right conditions; much like how Sheldon needs perfect sipping temperature)
+            a.) For 
+            b.) While (Will only run with right conditions; much like how Sheldon needs perfect sipping temperature)
       DONE  c.) Do while ( Will Run Once Guaranteed) 
     5.) Arrays
         a.) Single Dimension
